@@ -1,4 +1,4 @@
-﻿string[] arr1 = new string[] {"h", "2", "world", "1234", "1567", "Russia"};
+﻿string[] arr1 = new string[6] {"h", "2", "world", "1234", "1567", "Russia"};
 string[] arr2 = new string[arr1.Length];
 
 void SecondArr(string[] arr1, string[] arr2)
